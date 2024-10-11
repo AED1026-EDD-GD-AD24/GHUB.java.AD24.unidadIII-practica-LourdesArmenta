@@ -11,7 +11,7 @@ public class Nodo<T> {
     public T getValor() {
         return valor;
     }
-    public void setDato(T valor) {
+    public void setValor(T valor) {
         this.valor = valor;
     }
     public Nodo<T> getSiguiente() {
