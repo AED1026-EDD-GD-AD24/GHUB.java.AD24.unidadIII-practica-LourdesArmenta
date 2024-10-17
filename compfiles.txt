@@ -1,6 +1,9 @@
 ./pila/Nodo.java
 ./pila/Pila.java
+./delimitadores/AppDelimitadores.java
 ./delimitadores/Delimitadores.java
+./cola/Nodo.java
+./cola/Cola.java
 ./miPrincipal/Principal.java
 ./miPrincipal/ClientePilaMain.java
 ./miPrincipal/DemoStack.java
