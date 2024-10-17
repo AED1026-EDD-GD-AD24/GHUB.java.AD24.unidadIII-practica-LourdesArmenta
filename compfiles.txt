@@ -6,5 +6,6 @@
 ./cola/Cola.java
 ./miPrincipal/Principal.java
 ./miPrincipal/ClientePilaMain.java
+./miPrincipal/ClienteMainCola.java
 ./miPrincipal/DemoStack.java
 ./miTest/AppTest.java
