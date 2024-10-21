@@ -7,5 +7,6 @@
 ./miPrincipal/Principal.java
 ./miPrincipal/ClientePilaMain.java
 ./miPrincipal/ClienteMainCola.java
+./miPrincipal/ClienteMainQueue.java
 ./miPrincipal/DemoStack.java
 ./miTest/AppTest.java
