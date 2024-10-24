@@ -22,11 +22,11 @@ public class ClienteMainLista {
                 System.out.println("Dato en la posicion "+i+":"+lista.getValor(i));
             }
             //insertar al final
-            //lista.insertar(50,3);
-            //System.out.println();
-            //for(int i=0;i<=lista.getTamanio();i++){
-             //   System.out.println("Dato en la posicion "+i+":"+lista.getValor(i));
-            //}
+            lista.insertar(50,3);
+            System.out.println();
+            for(int i=0;i<lista.getTamanio();i++){
+               System.out.println("Dato en la posicion "+i+":"+lista.getValor(i));
+            }
             //insertar en medio
             lista.insertar(60,2);
             System.out.println();

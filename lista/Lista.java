@@ -79,6 +79,7 @@ public class Lista <T>{
 
                 }
             }
+            tamanio++;
 
         }else{
             throw new PosicionIlegalException();
